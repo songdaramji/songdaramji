@@ -1,3 +1,7 @@
+## Contact
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:songdaramji@gmail.com)
+<br><br>
+
 ## Languages
 ![Html5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399.svg?&style=for-the-badge&logo=css&logoColor=white)
@@ -34,8 +38,3 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songdaramji&show_icons=true&locale=en&layout=compact&theme=transparent"/>
 </div>
-<br><br>
-
-## Contact
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:songdaramji@gmail.com)
-<br><br>
