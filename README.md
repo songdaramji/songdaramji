@@ -13,7 +13,7 @@
 ## Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-00bcff?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
-<br><br>
+![Untitled UI](https://img.shields.io/badge/Untitled_UI-6941C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMS4zMDIgMjEuNjE0OUMxMS41MjM0IDIxLjc0NDEgMTEuNjM0MSAyMS44MDg3IDExLjc5MDMgMjEuODQyMkMxMS45MTE2IDIxLjg2ODIgMTIuMDg4NCAyMS44NjgyIDEyLjIwOTcgMjEuODQyMkMxMi4zNjU5IDIxLjgwODcgMTIuNDc2NiAyMS43NDQxIDEyLjY5OCAyMS42MTQ5QzE0LjY0NiAyMC40Nzg1IDIwIDE2LjkwODUgMjAgMTIuMDAwMVY4LjIwMDA3QzIwIDcuMTI2MTcgMjAgNi41ODkyMyAxOS44MzQ1IDYuMjA4MDdDMTkuNjY2MiA1LjgyMDY3IDE5LjQ5ODYgNS42MTQ1OCAxOS4xNTM2IDUuMzcwOTdDMTguODE0MSA1LjEzMTI5IDE4LjE0ODYgNC45OTI4OSAxNi44MTc3IDQuNzE2MDlDMTUuMzUwOCA0LjQxMTAxIDE0LjIyNDMgMy44NjAxIDEzLjE5NDQgMy4wNjMzOUMxMi43MDA1IDIuNjgxMzMgMTIuNDUzNiAyLjQ5MDMxIDEyLjI2MDMgMi40MzgyMUMxMi4wNTY0IDIuMzgzMjMgMTEuOTQzNiAyLjM4MzIzIDExLjczOTcgMi40MzgyMUMxMS41NDY0IDIuNDkwMzEgMTEuMjk5NSAyLjY4MTM0IDEwLjgwNTYgMy4wNjMzOUM5Ljc3NTcyIDMuODYwMSA4LjY0OTIgNC40MTEwMSA3LjE4MjMgNC43MTYwOUM1Ljg1MTM3IDQuOTkyODkgNS4xODU5MSA1LjEzMTI5IDQuODQ2NDUgNS4zNzA5N0M0LjUwMTQyIDUuNjE0NTggNC4zMzM3OSA1LjgyMDY3IDQuMTY1NTQgNi4yMDgwN0M0IDYuNTg5MjMgNCA3LjEyNjE3IDQgOC4yMDAwN1YxMi4wMDAxQzQgMTYuOTA4NSA5LjM1Mzk2IDIwLjQ3ODUgMTEuMzAyIDIxLjYxNDlaIi8+PC9zdmc+)<br><br>
 
 ## Library  
 ![React](https://img.shields.io/badge/React-0074a6?style=for-the-badge&logo=React&logoColor=white)
@@ -34,7 +34,6 @@
 
 ## Github Status
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=songdaramji&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats-maissong.vercel.app/api?username=songdaramji&show_icons=true&theme=transparent"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songdaramji&show_icons=true&locale=en&layout=compact&theme=transparent"/>
 </div>
